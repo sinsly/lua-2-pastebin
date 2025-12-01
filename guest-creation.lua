@@ -10,6 +10,7 @@
     Replace api_dev_key
     Replace pasteName
     Replace pasteCode 
+       * Don't let your key or u/p be publicly visible.
 
 --]]
 
