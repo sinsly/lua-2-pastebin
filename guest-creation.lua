@@ -10,6 +10,7 @@
     Replace api_dev_key
     Replace pasteName
     Replace pasteCode 
+
 --]]
 
 local pasteName = "lua2paste.lua"
